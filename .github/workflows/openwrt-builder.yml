@@ -14,7 +14,7 @@ name: OpenWrt Builder
 
 on:
   repository_dispatch:
-###  workflow_dispatch:
+  workflow_dispatch:
 
 # env:
 #  REPO_URL: https://github.com/coolsnowwolf/lede    源码仓库地址
